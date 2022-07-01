@@ -1,15 +1,5 @@
 {
-   "code":"TL0001",
-   "description":"Error al llamar al servicio",
-   "errorType":"TECHNICAL",
-   "exceptionDetails":[
-      {
-         "code":"MB0008",
-         "component":"MB.CardInqV2",
-         "description":"Codigo invalido para el canal"
-      }
-   ],
-   "properties":{
-      
-   }
+  "User": {
+    "title": { "string": {} }
+  }
 }
